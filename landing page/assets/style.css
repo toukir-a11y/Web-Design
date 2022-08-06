@@ -211,3 +211,59 @@ p.description {
     margin-top: 25px;
     
 }
+
+/* Testimonila section */
+
+.testimonial {
+    margin-top: 100px;
+}
+
+.testimonila-card {
+    background: #1F1F1F;
+    padding: 25px;
+}
+
+
+h1.t-title {
+    color: #fff;
+    font-size: 60px;
+    font-family: inherit;
+}
+
+.testimonial-content {
+    margin-top: 10px;
+    color: #fff;
+}
+
+.review-icon {
+    margin-top: 40px;
+}   
+
+.col-md-4 {
+    margin-top: 40px;
+}
+
+.testimonila-card {
+
+    border-top-style: solid;
+    border-top-color: rebeccapurple;
+}
+
+h3 {
+    margin-top: 10px;   
+    font-family: -webkit-body;
+}
+
+p.t-content {
+    padding-top: 10px;
+    color: #fff;
+    letter-spacing: 1px;
+}
+
+p.t-avatar {
+    color: #fff;
+}
+
+p.t-avatar-data {
+    color: #fff;
+}
